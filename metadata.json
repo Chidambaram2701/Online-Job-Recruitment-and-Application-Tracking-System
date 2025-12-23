@@ -1,0 +1,7 @@
+{
+  "name": "HireAI - NextGen ATS",
+  "description": "A comprehensive Job Recruitment and Application Tracking System featuring AI-powered candidate matching, smart job description generation, and a seamless recruitment workflow for Job Seekers, Recruiters, and Admins.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
